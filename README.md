@@ -22,7 +22,7 @@
 ```
 mkdir hoge && cd hoge
 
-git clone https://github.com/yk-graph/starter-react-project .
+git clone git@github.com:yk-graph/react-hooks-ts-template.git .
 
 npm install
 ```
